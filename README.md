@@ -1,14 +1,33 @@
-# FASTA-Analyzer
-A Python-based FASTA file analyzer with GUI and graph visualization.
+# 🧬 FASTA Analyzer with UI & Graphs
 
-## Features
-- Reads FASTA files
-- Calculates GC content
-- Displays sequence length
-- Graphs using matplotlib
-- GUI using Tkinter
+A Python-based bioinformatics tool to analyze DNA sequences from FASTA files with a simple graphical interface and data visualization.
 
-## How to Run
+---
+
+## 🚀 Features
+
+- 📂 Upload FASTA files
+- 🧬 Parse multiple DNA sequences
+- 📏 Calculate sequence length
+- 📊 Compute GC content (%)
+- 📈 Visualize:
+  - Sequence length distribution
+  - GC content distribution
+- 🖥️ User-friendly GUI using Tkinter
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Tkinter (GUI)
+- Matplotlib (Graphs)
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
 ```bash
-pip install matplotlib
-python app.py
+git clone https://github.com/your-username/fasta-analyzer.git
+cd fasta-analyzer
