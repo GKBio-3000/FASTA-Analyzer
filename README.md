@@ -82,21 +82,6 @@ After uploading a FASTA file, the application will:
 
 ---
 
-## 📸 Screenshot
-
-<img src="screenshot.png" alt="FASTA Analyzer Screenshot" width="600"/>
-
-*(Add a screenshot of your app and save it as `screenshot.png` in the project folder)*
-
----
-
-## 🧠 About the Project
-
-This project was developed to practice core bioinformatics concepts such as sequence parsing and analysis using Python. It also demonstrates basic GUI development and data visualization techniques.
-
----
-
-
 ## 👤 Author
 
 **Gautham K Kumar**
